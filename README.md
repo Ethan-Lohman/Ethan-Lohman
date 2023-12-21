@@ -15,10 +15,6 @@ I am a dedicated Computer Science Major student, passionate about unraveling the
 - **Frameworks & Libraries:** Experienced with SvelteKit, Jest
 - **Tools:** Git/Github, Visual Studio Code, Replit
 
-## 🌱 I’m currently learning
-
-1. Quantum Computing
-
 ## 🚧 Currently Working On
 
 1. **Quantum Computer Simulator:** Initiating research on Shor's Algorithm in Quantum Computing.
@@ -32,9 +28,5 @@ I am a dedicated Computer Science Major student, passionate about unraveling the
 
 - **Email:** lohmane.contact@gmail.com
 - **LinkedIn:** [Ethan Lohman's LinkedIn](https://www.linkedin.com/in/ethan-lohman-0a6801227/)
-
-## ⚡ Fun Fact
-
-I am a published author in [Interfaith America](https://www.interfaithamerica.org/article/class-love-and-death/).
 
 Feel free to explore my repositories, and let's connect! 🌟
