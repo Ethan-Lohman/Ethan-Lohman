@@ -12,13 +12,18 @@ I am a dedicated Computer Science Major student, passionate about unraveling the
 ## 🔧 Technologies & Tools
 
 - **Languages:** Proficient in Python, C, C++
-- **Frameworks & Libraries:** Experienced with SvelteKit, Jest
+- **Frameworks & Libraries:** Experienced with SvelteKit, Jest, Flask
 - **Tools:** Git/Github, Visual Studio Code, Replit
 
 ## 🚧 Currently Working On
 
-1. **Quantum Computer Simulator:** Initiating research on Shor's Algorithm in Quantum Computing.
-2. **Dungeons and Dragons Discord Bot:** Facilitating our weekly D&D games by managing characters and items.
+1. **Dungeons and Dragons Discord Bot:** Facilitating our weekly D&D games by managing characters and items.
+2. **Cybersecurity Google Certificate:** I am actively pursuing this certificate to learn the basics of cybersecurity.
+
+## 🏁 Projects Finished
+
+1. **Quantum Computing Research:** Finished my research about why the Bernstein-Vazirani algorithm is a better way to learn Quantum Computing than starting with the Deutsch algorithm.
+- [The Code](https://replit.com/@EthanLohman1/Quantum-Computing-Research)
 
 ## 👯‍♂️ I’m looking to collaborate on
 
