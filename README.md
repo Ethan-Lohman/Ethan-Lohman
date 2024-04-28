@@ -20,10 +20,10 @@ I am a dedicated Computer Science Major student, passionate about unraveling the
 1. **Dungeons and Dragons Discord Bot:** Facilitating our weekly D&D games by managing characters and items.
 2. **Cybersecurity Google Certificate:** I am actively pursuing this certificate to learn the basics of cybersecurity.
 
-## 🏁 Projects Finished
+## 🏁 Finished Projects
 
 1. **Quantum Computing Research:** Finished my research about why the Bernstein-Vazirani algorithm is a better way to learn Quantum Computing than starting with the Deutsch algorithm.
-1.1 [The Code](https://replit.com/@EthanLohman1/Quantum-Computing-Research)
+   - [The Code](https://replit.com/@EthanLohman1/Quantum-Computing-Research)
 
 ## 👯‍♂️ I’m looking to collaborate on
 
