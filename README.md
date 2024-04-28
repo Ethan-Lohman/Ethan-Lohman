@@ -22,7 +22,7 @@ I am a dedicated Computer Science Major student, passionate about unraveling the
 
 ## 📊 Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ethan-lohman&show_icons=true&theme=dark&title_color=FFFFFF&text_color=FFFFFF&locale=en" alt="Ethan Lohman Github Stats" />
-
+<br>
 ## 👯‍♂️ I’m looking to collaborate on
 
 1. **Let's Meet App:** Creating an application to help users find ideal meeting places with friends.
