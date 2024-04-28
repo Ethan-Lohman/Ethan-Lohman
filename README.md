@@ -30,3 +30,5 @@ I am a dedicated Computer Science Major student, passionate about unraveling the
 - **LinkedIn:** [Ethan Lohman's LinkedIn](https://www.linkedin.com/in/ethan-lohman-0a6801227/)
 
 Feel free to explore my repositories, and let's connect! 🌟
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ethan-lohman&show_icons=true&theme=dark&title_color=FFFFFF&text_color=FFFFFF&locale=en" alt="Ethan Lohman Github Stats" />
