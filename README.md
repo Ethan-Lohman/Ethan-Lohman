@@ -26,7 +26,7 @@ I am a dedicated Computer Science Major student, passionate about unraveling the
 1. **Quantum Computing Research:** Finished my research about why the Bernstein-Vazirani algorithm is a better way to learn Quantum Computing than starting with the Deutsch algorithm.
    - [The Code](https://replit.com/@EthanLohman1/Quantum-Computing-Research)
 
-## 👯‍♂️ I’m looking to collaborate on
+## 👯‍♂️ I’m Looking To Collaborate On
 
 1. **Let's Meet App:** Creating an application to help users find ideal meeting places with friends.
 
