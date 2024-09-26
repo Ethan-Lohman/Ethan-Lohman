@@ -17,8 +17,9 @@ I am a dedicated Computer Science Major student, passionate about unraveling the
 
 ## 🚧 Currently Working On
 
-1. **Dungeons and Dragons Discord Bot:** Facilitating our weekly D&D games by managing characters and items.
-2. **Cybersecurity Google Certificate:** I am actively pursuing this certificate to learn the basics of cybersecurity.
+1. **PrintListener:** Working towards remaking this [research paper](https://www.ndss-symposium.org/wp-content/uploads/2024-618-paper.pdf) , to be able to prevent this type of attack.
+2. **Dungeons and Dragons Discord Bot:** Facilitating our weekly D&D games by managing characters and items.
+3. **Cybersecurity Google Certificate:** I am actively pursuing this certificate to learn the basics of cybersecurity.
 
 ## 🏁 Finished Projects
 
